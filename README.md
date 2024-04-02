@@ -13,10 +13,8 @@ Ex-intern @ HighConnexion, Aix-en-Provence
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Adrien-CHABAUD&theme=swift&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrien-CHABAUD&theme=swift&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Adrien-CHABAUD&theme=swift&hide_border=true)<br/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrien-CHABAUD&theme=swift&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
-</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Adrien-CHABAUD&theme=flat&no-frame=true&no-bg=false&margin-w=4)
